@@ -6,7 +6,7 @@ const newsSchema = new mongoose.Schema(
     slug: { type: String, unique: true, sparse: true, lowercase: true, trim: true },
     category: {
       type: String,
-      enum: ["Launch", "Award", "Milestone", "Sustainability", "Press", "Blog"],
+      enum: ["Launch", "Award", "Milestone", "Sustainability", "Press", "Blog", "Community", "Lifestyle"],
       default: "Press",
     },
     date: { type: String, default: "" }, // display date e.g. "12 Jun 2026"
