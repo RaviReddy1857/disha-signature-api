@@ -14,11 +14,11 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const data = JSON.parse(readFileSync(join(__dirname, "data.json"), "utf-8"));
 
 const sampleLeads = [
-  { name: "Rajesh Menon", email: "rajesh.m@gmail.com", phone: "+91 98480 22113", project: "Disha Azure Heights", type: "Site Visit", status: "New" },
-  { name: "Priya Nair", email: "priya.nair@outlook.com", phone: "+91 99012 44567", project: "Disha Emerald Villas", type: "Enquiry", status: "Contacted" },
-  { name: "Sandeep Reddy", email: "sandeep.r@yahoo.com", phone: "+91 90087 65521", project: "Disha Grand Meadows", type: "Brochure", status: "New" },
-  { name: "Aisha Khan", email: "aisha.k@gmail.com", phone: "+971 50 332 1144", project: "Disha Signature Square", type: "Enquiry", status: "New" },
-  { name: "Vikram Joshi", email: "vikram.j@gmail.com", phone: "+91 98765 09876", project: "Disha Riverfront Residences", type: "Site Visit", status: "Closed" },
+  { name: "Rajesh Menon", email: "rajesh.m@gmail.com", phone: "+91 98480 22113", project: "Disha Central Park", type: "Site Visit", status: "New" },
+  { name: "Priya Nair", email: "priya.nair@outlook.com", phone: "+91 99012 44567", project: "Disha Windsor Gardens", type: "Enquiry", status: "Contacted" },
+  { name: "Sandeep Reddy", email: "sandeep.r@yahoo.com", phone: "+91 90087 65521", project: "Disha Park West", type: "Brochure", status: "New" },
+  { name: "Aisha Khan", email: "aisha.k@gmail.com", phone: "+971 50 332 1144", project: "Disha Central Park", type: "Enquiry", status: "New" },
+  { name: "Vikram Joshi", email: "vikram.j@gmail.com", phone: "+91 98765 09876", project: "Disha Windsor Gardens", type: "Site Visit", status: "Closed" },
 ];
 
 async function seed() {
@@ -35,7 +35,7 @@ async function seed() {
   // ─── Admin user ───────────────────────────────
   const admin = await User.create({
     name: process.env.SEED_ADMIN_NAME || "Disha Admin",
-    email: process.env.SEED_ADMIN_EMAIL || "admin@dishasignature.com",
+    email: process.env.SEED_ADMIN_EMAIL || "admin@dishadwellings.com",
     password: process.env.SEED_ADMIN_PASSWORD || "disha@2025",
     role: "admin",
   });
@@ -43,9 +43,9 @@ async function seed() {
 
   // ─── Projects ─────────────────────────────────
   const featuredSlugs = new Set([
-    "disha-azure-heights",
-    "disha-emerald-villas",
-    "disha-signature-square",
+    "disha-central-park",
+    "disha-windsor-gardens",
+    "disha-park-west",
   ]);
   const projects = data.projects.map((p) => ({
     ...p,

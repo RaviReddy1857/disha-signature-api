@@ -1,46 +1,45 @@
 {
   "projects": [
     {
-      "slug": "disha-azure-heights",
-      "name": "Disha Azure Heights",
-      "location": "Financial District, Gachibowli",
-      "city": "Hyderabad",
+      "slug": "disha-central-park",
+      "name": "Disha Central Park",
+      "location": "Varthur Lake, Panathur",
+      "city": "Bengaluru",
       "type": "Residential",
-      "status": "Ongoing",
-      "startingPrice": "₹1.45 Cr",
-      "priceValue": 145,
-      "rera": "P02400001234",
+      "status": "Completed",
+      "startingPrice": "On Request",
+      "priceValue": 9999,
+      "rera": "PR/KN/170729/000378",
       "hero": "linear-gradient(135deg,#0A1A33 0%,#1a3160 60%,#2b4a82 100%)",
       "accent": "#5b8fd6",
-      "tagline": "Sky homes above the city of tomorrow",
-      "description": "A landmark of 3 & 4 BHK sky residences rising 38 storeys above the Financial District. Disha Azure Heights pairs floor-to-ceiling glass with a 60,000 sq.ft sky clubhouse, redefining vertical luxury in West Hyderabad.",
+      "tagline": "A monumental community above Varthur Lake",
+      "description": "A monumental community of 300+ high-end luxury apartments spread over 3.55 acres near Varthur Lake in Bengaluru. Designed by Ambient Associates, Disha Central Park devotes 70% of its expanse to open space and pleasant landscaping, alive with the romance of a luxury resort.",
       "highlights": [
-        "38-storey twin towers with private sky lounges",
-        "60,000 sq.ft clubhouse across two levels",
-        "9-ft floor-to-ceiling windows in every home",
-        "5-tier security with facial recognition",
-        "EV charging on every parking level"
+        "300+ high-end luxury apartments across 3.55 acres",
+        "70% open space with resort-style landscaping",
+        "Iconic architecture by Ambient Associates",
+        "Grand clubhouse with curated indulgences",
+        "Expansive celebration & community spaces"
       ],
       "amenities": [
-        "Infinity Pool",
-        "Sky Clubhouse",
-        "Concierge",
+        "Clubhouse",
+        "Swimming Pool",
+        "Landscaped Gardens",
         "Gymnasium",
-        "Co-working Lounge",
-        "Kids' Play Zone",
+        "Children's Play Area",
         "Jogging Track",
+        "Indoor Games",
         "Banquet Hall",
-        "EV Charging",
-        "Landscaped Decks"
+        "24/7 Security",
+        "Power Backup"
       ],
       "unitTypes": [
-        "3 BHK",
-        "3.5 BHK",
-        "4 BHK"
+        "2 BHK",
+        "3 BHK"
       ],
-      "totalArea": "8.2 acres",
-      "possession": "Dec 2027",
-      "progress": 42,
+      "totalArea": "3.55 acres",
+      "possession": "Completed",
+      "progress": 100,
       "gallery": [
         "#13294d",
         "#1a3160",
@@ -51,593 +50,346 @@
       ],
       "floorPlans": [
         {
-          "name": "3 BHK — Tower A",
-          "area": "1,985 sq.ft",
-          "price": "₹1.45 Cr"
+          "name": "2 BHK",
+          "area": "1,180 sq.ft",
+          "price": "On Request"
         },
         {
-          "name": "3.5 BHK — Tower A",
-          "area": "2,310 sq.ft",
-          "price": "₹1.78 Cr"
-        },
-        {
-          "name": "4 BHK — Tower B",
-          "area": "2,940 sq.ft",
-          "price": "₹2.40 Cr"
+          "name": "3 BHK",
+          "area": "1,560 sq.ft",
+          "price": "On Request"
         }
       ],
       "faqs": [
+        {
+          "q": "Where is Disha Central Park located?",
+          "a": "The community sits over 3.55 acres near Varthur Lake in Panathur, Bengaluru, within easy reach of the ORR IT corridor."
+        },
+        {
+          "q": "Is the project completed?",
+          "a": "Yes. Disha Central Park is a completed and occupied community of 300+ luxury apartments."
+        },
         {
           "q": "What is the RERA registration number?",
-          "a": "Disha Azure Heights is RERA registered under P02400001234, with all approvals available for verification at our experience centre."
-        },
-        {
-          "q": "When is possession expected?",
-          "a": "Possession is scheduled for December 2027. Construction is currently 42% complete and tracking on schedule."
-        },
-        {
-          "q": "Are home loans pre-approved?",
-          "a": "Yes. We have project-level approvals with SBI, HDFC, and ICICI, enabling faster sanctions for eligible buyers and NRIs."
+          "a": "Disha Central Park is RERA registered under PR/KN/170729/000378."
         }
       ],
-      "mapQuery": "Financial District Gachibowli Hyderabad"
+      "mapQuery": "Disha Central Park Varthur Bangalore"
     },
     {
-      "slug": "disha-emerald-villas",
-      "name": "Disha Emerald Villas",
-      "location": "Sarjapur Road",
+      "slug": "disha-windsor-gardens",
+      "name": "Disha Windsor Gardens",
+      "location": "Varthur Lake, Panathur",
       "city": "Bengaluru",
-      "type": "Villas",
-      "status": "Upcoming",
-      "startingPrice": "₹3.10 Cr",
-      "priceValue": 310,
-      "rera": "PRM/KA/RERA/1251/446/PR/0005",
-      "hero": "linear-gradient(135deg,#0e2a22 0%,#1f5a44 65%,#2f7a5d 100%)",
-      "accent": "#3f9a78",
-      "tagline": "Forty private estates around a living forest",
-      "description": "Forty triple-height villas arranged around a two-acre native forest courtyard. Each Emerald estate offers a private plunge pool, double-height living, and a rooftop sky deck — a rare expression of horizontal luxury on Sarjapur Road.",
-      "highlights": [
-        "4 & 5 BHK villas on 4,000–6,500 sq.ft plots",
-        "2-acre central native forest",
-        "Private plunge pool with every villa",
-        "Rooftop sky deck and outdoor kitchen",
-        "Home automation across all estates"
-      ],
-      "amenities": [
-        "Private Pools",
-        "Forest Courtyard",
-        "Clubhouse",
-        "Spa",
-        "Tennis Court",
-        "Amphitheatre",
-        "Pet Park",
-        "Organic Garden",
-        "Cycling Loop",
-        "Security"
-      ],
-      "unitTypes": [
-        "4 BHK Villa",
-        "5 BHK Villa"
-      ],
-      "totalArea": "14 acres",
-      "possession": "Jun 2028",
-      "progress": 8,
-      "gallery": [
-        "#0e2a22",
-        "#1f5a44",
-        "#2f7a5d",
-        "#143a2e",
-        "#256a51",
-        "#0b231c"
-      ],
-      "floorPlans": [
-        {
-          "name": "4 BHK Villa",
-          "area": "4,180 sq.ft",
-          "price": "₹3.10 Cr"
-        },
-        {
-          "name": "5 BHK Villa",
-          "area": "5,240 sq.ft",
-          "price": "₹4.05 Cr"
-        },
-        {
-          "name": "5 BHK Signature Villa",
-          "area": "6,500 sq.ft",
-          "price": "₹5.60 Cr"
-        }
-      ],
-      "faqs": [
-        {
-          "q": "Is this a gated villa community?",
-          "a": "Yes, all forty villas sit within a single gated estate with 24/7 manned security and perimeter surveillance."
-        },
-        {
-          "q": "Can I customise interiors?",
-          "a": "Buyers booking before launch can select from three curated interior palettes and request bespoke modifications during construction."
-        },
-        {
-          "q": "What is the plot-to-built ratio?",
-          "a": "Built-up area is intentionally kept under 45% to preserve private gardens and the central forest."
-        }
-      ],
-      "mapQuery": "Sarjapur Road Bengaluru"
-    },
-    {
-      "slug": "disha-signature-square",
-      "name": "Disha Signature Square",
-      "location": "HITEC City",
-      "city": "Hyderabad",
-      "type": "Commercial",
-      "status": "Completed",
-      "startingPrice": "₹12,500 / sq.ft",
-      "priceValue": 999,
-      "rera": "P02400000891",
-      "hero": "linear-gradient(135deg,#1a1206 0%,#5e4a1c 60%,#A8852F 100%)",
-      "accent": "#C9A24B",
-      "tagline": "The address that signs the skyline",
-      "description": "A LEED Platinum Grade-A office tower and high-street retail destination in the heart of HITEC City. Signature Square delivers 1.2 million sq.ft of leasable space with a triple-height lobby and column-free floor plates for global occupiers.",
-      "highlights": [
-        "1.2 million sq.ft LEED Platinum Grade-A space",
-        "Column-free 30,000 sq.ft floor plates",
-        "Triple-height arrival lobby",
-        "High-street retail and food court",
-        "3,000-car automated parking"
-      ],
-      "amenities": [
-        "Grade-A Offices",
-        "High-Street Retail",
-        "Food Court",
-        "Conference Centre",
-        "Valet Parking",
-        "Helipad",
-        "Power Backup",
-        "Smart Access",
-        "Fibre Network",
-        "Wellness Centre"
-      ],
-      "unitTypes": [
-        "Office Floors",
-        "Retail Units"
-      ],
-      "totalArea": "6 acres",
-      "possession": "Delivered 2024",
-      "progress": 100,
-      "gallery": [
-        "#1a1206",
-        "#5e4a1c",
-        "#A8852F",
-        "#3a2c10",
-        "#C9A24B",
-        "#241a09"
-      ],
-      "floorPlans": [
-        {
-          "name": "Retail Unit",
-          "area": "1,200 sq.ft",
-          "price": "₹2.10 Cr"
-        },
-        {
-          "name": "Office Half-Floor",
-          "area": "15,000 sq.ft",
-          "price": "On Request"
-        },
-        {
-          "name": "Office Full-Floor",
-          "area": "30,000 sq.ft",
-          "price": "On Request"
-        }
-      ],
-      "faqs": [
-        {
-          "q": "Is the building fully leased?",
-          "a": "Signature Square is over 90% leased to multinational technology and consulting occupiers, with limited retail units available for purchase."
-        },
-        {
-          "q": "What sustainability certifications apply?",
-          "a": "The tower is LEED Platinum certified with rainwater harvesting, greywater recycling, and a rooftop solar array."
-        },
-        {
-          "q": "Are units available for outright purchase?",
-          "a": "Select retail units and one office floor are available for purchase. Office leasing is managed by our commercial desk."
-        }
-      ],
-      "mapQuery": "HITEC City Hyderabad"
-    },
-    {
-      "slug": "disha-grand-meadows",
-      "name": "Disha Grand Meadows",
-      "location": "Devanahalli",
-      "city": "Bengaluru",
-      "type": "Plots",
-      "status": "Ongoing",
-      "startingPrice": "₹85 L",
-      "priceValue": 85,
-      "rera": "PRM/KA/RERA/1260/308/PR/0019",
-      "hero": "linear-gradient(135deg,#2a1f10 0%,#6b5226 55%,#9c7a36 100%)",
-      "accent": "#b8924a",
-      "tagline": "Plotted estates beside the new airport corridor",
-      "description": "A 60-acre plotted development of premium villa plots minutes from Kempegowda International Airport. Grand Meadows offers fully-loaded plots with tree-lined avenues, underground utilities, and a grand clubhouse for the next generation of homebuilders.",
-      "highlights": [
-        "Plots from 1,200 to 4,800 sq.ft",
-        "60-acre master-planned township",
-        "100% Vaastu-compliant layouts",
-        "Underground electrical and drainage",
-        "5 minutes from the airport expressway"
-      ],
-      "amenities": [
-        "Clubhouse",
-        "Avenue Plantation",
-        "Underground Utilities",
-        "Parks",
-        "Sports Courts",
-        "Sewage Treatment",
-        "Street Lighting",
-        "Gated Security",
-        "Water Supply",
-        "Cycling Track"
-      ],
-      "unitTypes": [
-        "30x40 Plot",
-        "40x60 Plot",
-        "Odd Dimension"
-      ],
-      "totalArea": "60 acres",
-      "possession": "Phase 2 — 2026",
-      "progress": 58,
-      "gallery": [
-        "#2a1f10",
-        "#6b5226",
-        "#9c7a36",
-        "#3d2e15",
-        "#85692c",
-        "#1f160b"
-      ],
-      "floorPlans": [
-        {
-          "name": "30x40 Plot",
-          "area": "1,200 sq.ft",
-          "price": "₹85 L"
-        },
-        {
-          "name": "40x60 Plot",
-          "area": "2,400 sq.ft",
-          "price": "₹1.62 Cr"
-        },
-        {
-          "name": "60x80 Plot",
-          "area": "4,800 sq.ft",
-          "price": "₹3.20 Cr"
-        }
-      ],
-      "faqs": [
-        {
-          "q": "Are the plots clear-title?",
-          "a": "Yes, all plots are DTCP and RERA approved with clear, single-owner title and ready conveyance documentation."
-        },
-        {
-          "q": "Can I build immediately after purchase?",
-          "a": "Phase 1 plots are registry-ready with all utilities in place, so you may begin construction on possession."
-        },
-        {
-          "q": "Is bank financing available for plots?",
-          "a": "Plot-plus-construction loans are available through our partner banks for eligible buyers."
-        }
-      ],
-      "mapQuery": "Devanahalli Bengaluru"
-    },
-    {
-      "slug": "disha-riverfront-residences",
-      "name": "Disha Riverfront Residences",
-      "location": "Kollur, ORR",
-      "city": "Hyderabad",
       "type": "Residential",
-      "status": "Upcoming",
-      "startingPrice": "₹98 L",
-      "priceValue": 98,
-      "rera": "P02400002567",
-      "hero": "linear-gradient(135deg,#0a1f33 0%,#16456b 60%,#1f6f9c 100%)",
-      "accent": "#3b95c4",
-      "tagline": "Waterfront living on the Outer Ring Road",
-      "description": "2 & 3 BHK residences overlooking a restored waterbody on the ORR growth corridor. Riverfront Residences brings resort-style amenities and a kilometre-long promenade to one of Hyderabad's fastest-appreciating micro-markets.",
+      "status": "Completed",
+      "startingPrice": "On Request",
+      "priceValue": 9998,
+      "rera": "PR/KN/170729/000379",
+      "hero": "linear-gradient(135deg,#0A1A33 0%,#16384a 55%,#1f5560 100%)",
+      "accent": "#4fae8b",
+      "tagline": "An eclectic lifestyle by the lake",
+      "description": "Spread over a sprawling 1.25 acres and serenely placed close to the scenic splendour of Varthur Lake in Bengaluru, Disha Windsor Gardens is surrounded by IT conglomerates on all sides — making walk-to-work and an easy drive to office a pleasant reality. An epitome of an eclectic lifestyle blending natural quiet, urban indulgence and discreet privacy.",
       "highlights": [
-        "2 & 3 BHK lake-facing homes",
-        "1 km landscaped promenade",
-        "Resort-style amenity deck",
-        "Direct ORR connectivity",
-        "Rainwater-fed restored waterbody"
+        "Sprawling 1.25 acres beside Varthur Lake",
+        "Surrounded by IT hubs — walk-to-work convenience",
+        "Classy clubhouse wrapped in privacy",
+        "Healthier-lifestyle amenities throughout",
+        "A measure of natural quiet and urban indulgence"
       ],
       "amenities": [
-        "Lakefront Promenade",
-        "Swimming Pool",
         "Clubhouse",
-        "Gym",
-        "Yoga Deck",
-        "Amphitheatre",
-        "Retail Plaza",
-        "Kids' Zone",
-        "Senior Garden",
-        "Security"
+        "Swimming Pool",
+        "Gymnasium",
+        "Landscaped Gardens",
+        "Party Hall",
+        "Children's Play Area",
+        "Indoor Games",
+        "24/7 Security",
+        "Power Backup",
+        "Covered Parking"
       ],
       "unitTypes": [
         "2 BHK",
         "3 BHK"
       ],
-      "totalArea": "11 acres",
-      "possession": "Mar 2028",
-      "progress": 4,
+      "totalArea": "1.25 acres",
+      "possession": "Completed",
+      "progress": 100,
       "gallery": [
-        "#0a1f33",
-        "#16456b",
-        "#1f6f9c",
-        "#0f3050",
-        "#2a7fad",
-        "#08182a"
+        "#16384a",
+        "#1f5560",
+        "#0f2a38",
+        "#235e5a",
+        "#12414a",
+        "#1a4d52"
       ],
       "floorPlans": [
         {
           "name": "2 BHK",
-          "area": "1,240 sq.ft",
-          "price": "₹98 L"
+          "area": "1,210 sq.ft",
+          "price": "On Request"
         },
         {
           "name": "3 BHK",
-          "area": "1,640 sq.ft",
-          "price": "₹1.32 Cr"
-        },
-        {
-          "name": "3 BHK Lake-facing",
-          "area": "1,820 sq.ft",
-          "price": "₹1.55 Cr"
+          "area": "1,520 sq.ft",
+          "price": "On Request"
         }
       ],
       "faqs": [
         {
-          "q": "How far is the ORR exit?",
-          "a": "The project has direct access to the Kollur ORR exit, placing the Financial District within a 20-minute drive."
+          "q": "How big is Disha Windsor Gardens?",
+          "a": "The development spans a sprawling 1.25 acres placed close to Varthur Lake in Bengaluru."
         },
         {
-          "q": "Is pre-launch pricing available?",
-          "a": "Yes, expression-of-interest bookings unlock pre-launch pricing and priority unit selection."
+          "q": "Is it convenient for IT professionals?",
+          "a": "Yes. The site is surrounded by IT conglomerates on all sides, making walk-to-work or a short drive to office a pleasant reality."
         },
         {
-          "q": "What is the unit mix?",
-          "a": "The development is a balanced mix of compact 2 BHK and spacious 3 BHK homes across six towers."
+          "q": "Is the project completed?",
+          "a": "Yes, Disha Windsor Gardens is a completed residential community."
         }
       ],
-      "mapQuery": "Kollur ORR Hyderabad"
+      "mapQuery": "Disha Windsor Gardens Varthur Bangalore"
     },
     {
-      "slug": "disha-crown-residences",
-      "name": "Disha Crown Residences",
-      "location": "Banjara Hills",
-      "city": "Hyderabad",
+      "slug": "disha-park-west",
+      "name": "Disha Park West",
+      "location": "Panathur-Varthur Road, Panathur",
+      "city": "Bengaluru",
       "type": "Residential",
       "status": "Completed",
-      "startingPrice": "₹2.80 Cr",
-      "priceValue": 280,
-      "rera": "P02400000455",
-      "hero": "linear-gradient(135deg,#1a0e1f 0%,#3d2150 60%,#5a3475 100%)",
-      "accent": "#9168b8",
-      "tagline": "An heirloom address in old Hyderabad",
-      "description": "An ultra-luxury boutique tower of just 48 residences in the city's most coveted neighbourhood. Crown Residences offers full-floor and duplex homes with private elevators, delivered and fully occupied — a benchmark for legacy living.",
+      "startingPrice": "On Request",
+      "priceValue": 9997,
+      "rera": "PR/KN/170729/000387",
+      "hero": "linear-gradient(135deg,#0A1A33 0%,#22305e 55%,#3a3f7a 100%)",
+      "accent": "#8b7fd6",
+      "tagline": "A flagship lifestyle, parallel to the ORR",
+      "description": "A triumph of contemporary, cutting-edge planning, Disha Park West offers palatial living space and a great ambience adjacent to our prestigious Disha Central Park. Sprawling over 1.5 acres running parallel to the Outer Ring Road, it places IT companies, banks, educational institutions and hospitals just around the corner.",
       "highlights": [
-        "Only 48 residences across 24 floors",
-        "Private elevator lobbies",
-        "Full-floor and duplex penthouses",
-        "Imported Italian finishes",
-        "Delivered and fully occupied"
+        "Spread over 1.50 acres, 120 apartments",
+        "Adjacent to Disha Central Park, parallel to ORR",
+        "All apartments designed as per Vaastu",
+        "Guaranteed Occupancy Certificate and A-Khata",
+        "Engineered hardwood doors & UPVC French windows"
       ],
       "amenities": [
-        "Private Lifts",
-        "Sky Lounge",
-        "Concierge",
-        "Wine Cellar",
-        "Spa",
-        "Heated Pool",
-        "Cigar Room",
-        "Valet",
-        "Home Theatre",
-        "Security"
+        "Rainwater Harvesting",
+        "Sewage Treatment Plant",
+        "Car Parking",
+        "Intercom Facility",
+        "24/7 Security",
+        "Clubhouse",
+        "Swimming Pool",
+        "Landscaped Gardens",
+        "Power Backup",
+        "Excellent Ground Water"
       ],
       "unitTypes": [
-        "Full-Floor 4 BHK",
-        "Duplex Penthouse"
+        "2 BHK",
+        "2.5 BHK",
+        "3 BHK"
       ],
-      "totalArea": "2.5 acres",
-      "possession": "Delivered 2023",
+      "totalArea": "1.50 acres",
+      "possession": "Completed",
       "progress": 100,
       "gallery": [
-        "#1a0e1f",
-        "#3d2150",
-        "#5a3475",
-        "#2a1738",
-        "#4a2a63",
-        "#120a16"
+        "#22305e",
+        "#3a3f7a",
+        "#1a2548",
+        "#2e3668",
+        "#171f3e",
+        "#252d5a"
       ],
       "floorPlans": [
         {
-          "name": "Full-Floor 4 BHK",
-          "area": "3,650 sq.ft",
-          "price": "₹2.80 Cr"
+          "name": "2 BHK",
+          "area": "1,078 – 1,208 sq.ft",
+          "price": "On Request"
         },
         {
-          "name": "Duplex Penthouse",
-          "area": "6,200 sq.ft",
-          "price": "₹6.90 Cr"
+          "name": "2.5 BHK",
+          "area": "1,356 sq.ft",
+          "price": "On Request"
+        },
+        {
+          "name": "3 BHK",
+          "area": "1,350 – 1,670 sq.ft",
+          "price": "On Request"
         }
       ],
       "faqs": [
         {
-          "q": "Are any units still available?",
-          "a": "Crown Residences is sold out. Occasional resale opportunities are handled by our private client desk."
+          "q": "What configurations are available at Disha Park West?",
+          "a": "The project offers 2 BHK (1,078–1,208 sft), 2.5 BHK (1,356 sft) and 3 BHK (1,350–1,670 sft) apartments across 120 homes."
         },
         {
-          "q": "What makes the address special?",
-          "a": "Banjara Hills remains Hyderabad's most established luxury enclave, ensuring strong value retention and exclusivity."
+          "q": "What is the RERA registration number?",
+          "a": "Disha Park West is RERA registered under PR/KN/170729/000387."
         },
         {
-          "q": "Is there a private client programme?",
-          "a": "Yes, our private client desk assists existing owners with resale, leasing, and concierge services."
+          "q": "Is the apartment Vaastu compliant and A-Khata?",
+          "a": "Yes. All apartments are designed as per Vaastu, with a guaranteed Occupancy Certificate and A-Khata."
         }
       ],
-      "mapQuery": "Banjara Hills Hyderabad"
+      "mapQuery": "Disha Park West Panathur Varthur Road Bangalore"
     }
   ],
   "testimonials": [
     {
-      "name": "Ramesh & Lakshmi Iyer",
-      "role": "Home Buyers",
-      "project": "Azure Heights",
-      "quote": "From the first site visit to handover, Disha treated us like family. The build quality genuinely exceeds what was promised in the brochure."
+      "name": "Subha RamaKrishnan",
+      "role": "Home Owner",
+      "project": "Park West",
+      "quote": "It's a beautiful home designed with thoughtfulness. I'm happy about my decision to opt for this."
     },
     {
-      "name": "Sandeep Reddy",
-      "role": "NRI Investor (Dubai)",
-      "project": "Signature Square",
-      "quote": "Investing from overseas felt effortless. Transparent paperwork, regular construction videos, and a returns story that has held up beautifully."
+      "name": "Srinivas",
+      "role": "Home Owner",
+      "project": "Park West",
+      "quote": "Very satisfied with the features and the design. Disha delivered exactly what was promised."
     },
     {
-      "name": "Dr. Anjali Menon",
-      "role": "Villa Owner",
-      "project": "Emerald Villas",
-      "quote": "The forest courtyard is the soul of our home. Disha understood that luxury is about how a space makes you feel, not just what it costs."
+      "name": "Shiva",
+      "role": "Home Owner",
+      "project": "Park West",
+      "quote": "Found my dream home at last and I'm thrilled. The whole experience exceeded expectations."
     },
     {
-      "name": "Vikram Saxena",
-      "role": "Commercial Buyer",
-      "project": "Signature Square",
-      "quote": "Our headquarters has never looked better. Grade-A specification, on-time delivery, and a leasing team that actually delivers tenants."
+      "name": "Rahul K.",
+      "role": "Home Owner",
+      "project": "Park West",
+      "quote": "The swimming pool and the Buddha statue bring a real state of peace to everyday living."
     },
     {
-      "name": "Priya & Karthik",
-      "role": "First-time Buyers",
-      "project": "Riverfront Residences",
-      "quote": "We were nervous first-time buyers. The team walked us through RERA, loans, and Vaastu with real patience. Trust earned."
+      "name": "Resident",
+      "role": "Home Owner",
+      "project": "Central Park",
+      "quote": "Seventy per cent open space genuinely changes how a home feels. The landscaping is the soul of the community."
     }
   ],
   "news": [
     {
-      "date": "12 Jun 2026",
-      "category": "Launch",
-      "title": "Disha Riverfront Residences opens for expression of interest",
-      "excerpt": "Pre-launch bookings open for our waterfront community on the ORR corridor, with priority unit selection for early registrants."
-    },
-    {
-      "date": "28 May 2026",
-      "category": "Award",
-      "title": "Disha Signature wins Developer of the Year — South India",
-      "excerpt": "Recognised at the Realty Excellence Awards 2026 for design innovation and on-time delivery across our residential portfolio."
-    },
-    {
-      "date": "09 May 2026",
+      "date": "2024",
       "category": "Milestone",
-      "title": "Azure Heights tops out Tower A structure",
-      "excerpt": "Tower A reaches its 38th-floor structural milestone, keeping the project firmly on its December 2027 possession timeline."
+      "title": "Disha Park West completed and handed over",
+      "excerpt": "Our flagship lifestyle community of 120 Vaastu-designed apartments adjacent to Central Park reaches full occupancy with A-Khata and Occupancy Certificate."
     },
     {
-      "date": "21 Apr 2026",
+      "date": "2023",
+      "category": "Community",
+      "title": "Disha Central Park welcomes 300+ families",
+      "excerpt": "The 3.55-acre community near Varthur Lake, with 70% open space and architecture by Ambient Associates, is now a thriving residential landmark."
+    },
+    {
+      "date": "2022",
       "category": "Sustainability",
-      "title": "Signature Square achieves LEED Platinum certification",
-      "excerpt": "Our flagship commercial tower earns the highest green-building rating for energy, water, and indoor environment performance."
+      "title": "Rainwater harvesting & STP across our communities",
+      "excerpt": "Every Disha development integrates rainwater harvesting and sewage treatment, reflecting our commitment to responsible, future-ready living."
+    },
+    {
+      "date": "2021",
+      "category": "Lifestyle",
+      "title": "Walk-to-work living at Windsor Gardens",
+      "excerpt": "Placed beside Varthur Lake and surrounded by IT hubs, Windsor Gardens redefines convenience for Bengaluru's technology workforce."
     }
   ],
   "leadership": [
     {
-      "name": "Arvind Disha",
+      "name": "Disha Dwellings",
       "role": "Founder & Chairman",
-      "initials": "AD",
-      "bio": "Three decades in real estate. Arvind founded Disha Signature on a single conviction: that a builder's name should be a guarantee, not a gamble."
+      "initials": "DD",
+      "bio": "A company beyond the ordinary, Disha Dwellings was founded on the conviction that a builder's name should be a guarantee, not a gamble — creating harmonious homes you can take pride in."
     },
     {
-      "name": "Meera Disha",
+      "name": "Design Leadership",
       "role": "Managing Director",
-      "initials": "MD",
-      "bio": "An architect by training, Meera leads design and delivery, ensuring every Disha address carries the same signature of craft."
+      "initials": "ML",
+      "bio": "Leading design and delivery with an architect's eye, ensuring every Disha address carries the same signature of craft from concept to handover."
     },
     {
-      "name": "Rohan Kulkarni",
+      "name": "Operations",
       "role": "Chief Operating Officer",
-      "initials": "RK",
-      "bio": "Rohan brings precision to execution, overseeing construction, procurement, and the on-time delivery our owners count on."
+      "initials": "OP",
+      "bio": "Bringing precision to execution — overseeing construction, procurement, and the on-time delivery our owners count on across every community."
     },
     {
-      "name": "Sneha Varma",
+      "name": "Customer Experience",
       "role": "Chief Marketing Officer",
-      "initials": "SV",
-      "bio": "Sneha shapes how Disha tells its story, building a brand that home buyers, NRIs, and institutions trust across markets."
+      "initials": "CX",
+      "bio": "Shaping how Disha tells its story and building a brand that home buyers, NRIs, and institutions trust across Bengaluru and beyond."
     }
   ],
   "stats": [
     {
-      "value": 42,
-      "suffix": "+",
-      "label": "Projects Delivered"
+      "value": 3,
+      "suffix": "",
+      "label": "Landmark Communities"
     },
     {
-      "value": 18500,
+      "value": 500,
       "suffix": "+",
       "label": "Happy Families"
     },
     {
-      "value": 24,
-      "suffix": "M",
-      "label": "Sq.ft Developed"
+      "value": 6,
+      "suffix": "+",
+      "label": "Acres Developed"
     },
     {
-      "value": 28,
-      "suffix": "",
-      "label": "Years of Excellence"
+      "value": 100,
+      "suffix": "%",
+      "label": "On-Time Delivery"
     }
   ],
   "coreValues": [
     {
-      "title": "Integrity",
-      "text": "Every commitment in writing, every promise kept. Our word is the foundation we build on."
+      "title": "Concept",
+      "text": "Innovative concepts that welcome tomorrow's lifestyle today — thinking ahead so your home streamlines your life."
     },
     {
-      "title": "Craftsmanship",
-      "text": "Obsessive attention to material, finish, and detail — the difference you feel, not just see."
+      "title": "Design",
+      "text": "Attention to detail that enhances the uber-luxury experience, from landscaping to the smallest finish."
     },
     {
-      "title": "Transparency",
-      "text": "RERA-first disclosure, honest pricing, and construction updates you never have to ask for."
+      "title": "Build",
+      "text": "Showcasing the next level of building standards — engineered materials, Vaastu planning, and lasting quality."
     },
     {
-      "title": "Stewardship",
-      "text": "Green-rated developments and restored landscapes that give more to the city than they take."
+      "title": "Life",
+      "text": "A life of comfort and convenience in an inspiring ambience, where every community gives more than it takes."
     }
   ],
   "awards": [
     {
-      "year": "2026",
-      "title": "Developer of the Year — South India",
-      "body": "Realty Excellence Awards"
-    },
-    {
-      "year": "2025",
-      "title": "Best Luxury Project — Crown Residences",
-      "body": "India Property Awards"
-    },
-    {
       "year": "2024",
-      "title": "Sustainable Commercial Building",
-      "body": "Green Building Council"
+      "title": "Flagship Lifestyle — Disha Park West",
+      "body": "120 homes, fully delivered"
     },
     {
       "year": "2023",
-      "title": "Customer Trust Brand — Real Estate",
-      "body": "Brand Vision Summit"
+      "title": "300+ Family Community — Central Park",
+      "body": "3.55 acres near Varthur Lake"
+    },
+    {
+      "year": "2022",
+      "title": "Green Infrastructure Initiative",
+      "body": "Rainwater harvesting & STP"
+    },
+    {
+      "year": "2021",
+      "title": "Walk-to-Work Living — Windsor Gardens",
+      "body": "Beside the IT corridor"
     }
   ],
   "company": {
-    "name": "DISHA SIGNATURE",
-    "tagline": "Building Dreams, Creating Landmarks.",
-    "phone": "+91 98765 43210",
-    "whatsapp": "919876543210",
-    "email": "connect@dishasignature.com",
-    "address": "Disha Signature Tower, Road No. 12, Banjara Hills, Hyderabad 500034",
-    "rera": "P02400000891",
-    "founded": 1998
+    "name": "Disha Dwellings",
+    "legalName": "Disha Dwellings Pvt. Ltd.",
+    "tagline": "Concept. Design. Build. Life.",
+    "phone": "+91 76763 33333",
+    "whatsapp": "917676333333",
+    "email": "info@dishadwellings.com",
+    "address": "Sy. No. 14/15/1 & 15/2, Panathur-Varthur Road, Panathur, Bengaluru 560103",
+    "rera": "PR/KN/170729/000387",
+    "founded": 2008
   }
 }
