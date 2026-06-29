@@ -1,0 +1,43 @@
+# Render Blueprint for the DISHA SIGNATURE backend API.
+# This repo contains ONLY the backend (the server/ contents at root).
+# In Render: New → Blueprint, connect this repo, and Render reads this file.
+#
+# After the first deploy, open the service's "Shell" tab and run:
+#     npm run seed
+# to create the admin user and load projects/news into MongoDB.
+
+services:
+  - type: web
+    name: disha-signature-api
+    runtime: node
+    plan: free               # free tier: spins down after 15 min idle
+    region: singapore        # closest Render region to India
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      # ── Set these in the Render dashboard (marked sync:false so they
+      #    are NOT committed to git) ──────────────────────────────────
+      - key: MONGODB_URI
+        sync: false          # paste your Atlas connection string here
+      - key: JWT_SECRET
+        generateValue: true  # Render generates a strong random secret
+      - key: CLIENT_ORIGIN
+        sync: false          # your Vercel URL, e.g. https://yoursite.vercel.app
+      - key: SEED_ADMIN_EMAIL
+        sync: false
+      - key: SEED_ADMIN_PASSWORD
+        sync: false
+      - key: SEED_ADMIN_NAME
+        value: Disha Admin
+      # ── Optional: only needed if you enable media uploads ──────────
+      - key: CLOUDINARY_CLOUD_NAME
+        sync: false
+      - key: CLOUDINARY_API_KEY
+        sync: false
+      - key: CLOUDINARY_API_SECRET
+        sync: false
