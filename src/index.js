@@ -12,6 +12,7 @@ import projectRoutes from "./routes/projectRoutes.js";
 import leadRoutes from "./routes/leadRoutes.js";
 import newsRoutes from "./routes/newsRoutes.js";
 import uploadRoutes from "./routes/uploadRoutes.js";
+import seedRoutes from "./routes/seedRoutes.js";
 
 const app = express();
 
@@ -49,6 +50,7 @@ app.use("/api/projects", projectRoutes);
 app.use("/api/leads", leadRoutes);
 app.use("/api/news", newsRoutes);
 app.use("/api/uploads", uploadRoutes);
+app.use("/api/seed", seedRoutes);
 
 // ─── Errors ──────────────────────────────────────────────
 app.use(notFound);
